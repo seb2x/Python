@@ -4,7 +4,7 @@ import time
 TOKEN = "" #Insert bot token or your own
 CHANNEL_ID = "" #Insert channel ID
 MESSAGE = "" #Insert your message here
-WAIT_TIME = #Enter a number 1 second bigger than the slow mode timer
+WAIT_TIME = #Insert a number 1 second+ than the slow mode timer in the channel you want to send messages in
 
 headers = {
     "Authorization": f"Bot {TOKEN}",
